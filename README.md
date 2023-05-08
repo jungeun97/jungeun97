@@ -37,8 +37,10 @@
 </div>
 	</br>
 	</br>
+	
+<b>GitHub Stats</b>
 
-[![정은's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjungeun97&theme=tokyonight)](https://github.com/parkjungeun97/github-readme-stats)
+[![정은's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungeun97&theme=tokyonight)](https://github.com/jungeun97/github-readme-stats)
 
 <b>Baekjoon Streak</b>
   
