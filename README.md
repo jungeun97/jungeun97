@@ -1,8 +1,6 @@
 
 <div align="center">
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi! I'm JUNGEUN!&fontSize=60" /><br>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JUNGEUN&fontSize=60" /><br>
 
 <b>Blogs</b>
 <div>
