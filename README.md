@@ -9,6 +9,8 @@
 </div>
 
 </br>
+<br/>
+<br/>
 
 <b>Skill</b>
 <div>
@@ -38,9 +40,14 @@
 	</br>
 	</br>
 	
+<br/>
+
 <b>GitHub Stats</b>
 
 [![정은's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungeun97&theme=swift)](https://github.com/jungeun97/github-readme-stats)
+
+<br/>
+<br/>
 
 <b>Baekjoon Streak</b>
   
